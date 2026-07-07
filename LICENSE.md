@@ -1,4 +1,4 @@
-# 
+# EveryDollar 帮助您使用 Dave Ramsey 的零基预算方法创建预算、跟踪支出并掌控财务。
 
 
 
